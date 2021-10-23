@@ -13,3 +13,8 @@ https://nbviewer.jupyter.org/github/yudhi-chen/financial/blob/main/2021-09-16-st
 This is the same style code apply onto crypto currency to understand OHLCV data taken from yahoo finance using EDA approach. The code was created based upon historical data to see how particular crypto behave for better decision making of investment. The example using Bitcoin (BTC-USD) from 2016 up to mid September 2021. 
 
 https://nbviewer.jupyter.org/github/yudhi-chen/financial/blob/main/2021-09-25-crypto_analysis_BTC.ipynb
+
+## 2021-10-22: Investpy Economic Calendar against S&P500
+This code utilizing python package 'investpy' to pull out economic calendar data & S&P500 index price data from investing.com. The objective is to relate percentage change price of index against economic calendar.
+
+https://nbviewer.org/github/yudhi-chen/financial/blob/main/2021-10-22-investpy_economic_calendar_S%26P500.ipynb
