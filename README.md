@@ -15,6 +15,6 @@ This is the same style code apply onto crypto currency to understand OHLCV data 
 https://nbviewer.jupyter.org/github/yudhi-chen/financial/blob/main/2021-09-25-crypto_analysis_BTC.ipynb
 
 ## 2021-10-22: Investpy Economic Calendar against S&P500
-This code utilizing python package 'investpy' to pull out economic calendar data & S&P500 index price data from investing.com. The objective is to relate percentage change price of index against economic calendar.
+This code utilizing python package 'investpy' to pull out economic calendar data & S&P500 index price data from investing.com. The objective is to relate percentage change price of index against economic calendar. Getting economic calendar helps to gain more understanding of what might (or might not) contribute to index price.
 
 https://nbviewer.org/github/yudhi-chen/financial/blob/main/2021-10-22-investpy_economic_calendar_S%26P500.ipynb
